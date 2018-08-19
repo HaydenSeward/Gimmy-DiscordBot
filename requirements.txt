@@ -1,3 +1,2 @@
-os
 git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py
 boto==2.49.0
